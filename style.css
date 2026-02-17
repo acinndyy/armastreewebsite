@@ -125,9 +125,9 @@ footer {
   max-width: 250px;
   width: 90%;
   height: auto;
-}.call-now {
+.call-now {
   display: inline-block;
-  margin-top: 15px;
+  margin-top: 10px;
   padding: 15px 25px;
   background: #2e7d32;
   color: white;
@@ -135,8 +135,4 @@ footer {
   font-size: 20px;
   font-weight: bold;
   border-radius: 10px;
-}
-
-.call-now:hover {
-  background: #256428;
 }
