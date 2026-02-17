@@ -126,17 +126,13 @@ footer {
   width: 90%;
   height: auto;
 .call-button {
-  display: inline-block;
-  background: #0f7a3d;
-  color: white;
-  padding: 14px 25px;
-  border-radius: 10px;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: bold;
-  margin-top: 15px;
-}
-
-.call-button:hover {
-  background: #0b5c2e;
+  display: inline-block !important;
+  background-color: #0b5c2e !important;
+  color: white !important;
+  padding: 14px 25px !important;
+  border-radius: 10px !important;
+  text-decoration: none !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  margin-top: 15px !important;
 }
