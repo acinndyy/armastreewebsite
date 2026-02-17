@@ -138,3 +138,20 @@ footer {
   font-weight: bold !important;
   margin-top: 15px !important;
 }
+.service-areas {
+  padding: 50px 20px;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+.service-areas h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.service-areas p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: auto;
+  color: #333;
+}
