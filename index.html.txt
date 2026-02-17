@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Armas Tree Service LLC</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <div class="overlay">
+      <h1>Armas Tree Service LLC</h1>
+      <p>Professional Tree Removal • Trimming • Stump Grinding • Emergency Services</p>
+      <a class="btn" href="#contact">Get a Free Estimate</a>
+    </div>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>
+      Armas Tree Service LLC provides reliable, affordable, and professional tree services.
+      We specialize in safe tree removal, trimming, pruning, stump grinding, and storm cleanup.
+      Customer satisfaction and safety are our top priorities.
+    </p>
+  </section>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <div class="service-grid">
+      <div class="service-card">
+        <h3>Tree Removal</h3>
+        <p>Safe removal of trees of all sizes.</p>
+      </div>
+
+      <div class="service-card">
+        <h3>Tree Trimming</h3>
+        <p>Keep your trees healthy and looking great.</p>
+      </div>
+
+      <div class="service-card">
+        <h3>Stump Grinding</h3>
+        <p>Remove unwanted stumps and clean up your yard.</p>
+      </div>
+
+      <div class="service-card">
+        <h3>Storm Cleanup</h3>
+        <p>Emergency cleanup and fallen tree removal.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="gallery">
+    <h2>Our Work</h2>
+    <p>Photos coming soon! Contact us to see recent projects.</p>
+  </section>
+
+  <section class="contact" id="contact">
+    <h2>Contact Us</h2>
+    <p>Call or message us today for a free estimate!</p>
+
+    <div class="contact-box">
+      <p><strong>Phone:</strong> <a href="tel:1234567890">(123) 456-7890</a></p>
+      <p><strong>Email:</strong> <a href="mailto:armastreeservice@gmail.com">armastreeservice@gmail.com</a></p>
+    </div>
+
+    <form class="contact-form" name="contact" method="POST" data-netlify="true" action="/thankyou.html">
+      <input type="hidden" name="form-name" value="contact" />
+
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="tel" name="phone" placeholder="Phone Number" required />
+      <input type="email" name="email" placeholder="Email Address" required />
+      <textarea name="message" placeholder="How can we help you?" required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2026 Armas Tree Service LLC | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
