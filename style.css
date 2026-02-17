@@ -143,4 +143,40 @@ footer {
   text-align: center;
   background: #f4f4f4;
 }
+.service-areas {
+  padding: 50px 20px;
+  text-align: center;
+  background: #f4f4f4;
+}
 
+.service-areas h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.service-areas p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: auto;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.area-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.area-list li {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  border: 1px solid #ddd;
+}
