@@ -1,4 +1,4 @@
-body {
+ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background: #f7f7f7;
@@ -125,6 +125,8 @@ footer {
   max-width: 250px;
   width: 90%;
   height: auto;
+}
+
 .call-button {
   display: inline-block !important;
   background-color: #0b5c2e !important;
