@@ -454,4 +454,9 @@ img.facebook-icon {
 
 .contact-box a:hover {
   color: #0056b3 !important;
+  .contact-link,
+.facebook-link {
+  color: blue !important;
+  text-decoration: underline;
+}
 }
