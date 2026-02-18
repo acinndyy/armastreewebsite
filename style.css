@@ -238,3 +238,30 @@ img.facebook-icon {
 
   filter: invert(32%) sepia(90%) saturate(400%) hue-rotate(90deg) brightness(80%) contrast(95%);
 }
+.contact-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.icon-green {
+  width: 18px !important;
+  height: 18px !important;
+  object-fit: contain;
+  flex-shrink: 0;
+
+  filter: invert(32%) sepia(90%) saturate(400%) hue-rotate(90deg) brightness(80%) contrast(95%);
+}
+
+.contact-link,
+.facebook-link {
+  color: #0b5c2e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.contact-link:hover,
+.facebook-link:hover {
+  text-decoration: underline;
+}
