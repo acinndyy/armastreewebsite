@@ -196,3 +196,9 @@ footer {
 .facebook-link:active {
   color: #0b5c2e;
 }
+.facebook-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
