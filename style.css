@@ -403,3 +403,15 @@ img.facebook-icon {
   text-decoration: underline;
   font-weight: normal;
 }
+.contact {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.contact h2 {
+  margin-bottom: 10px;
+}
+
+.contact p {
+  margin-bottom: 20px;
+}
