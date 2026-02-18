@@ -11,7 +11,24 @@
   height: 90vh;
   position: relative;
 }
+.contact-box a,
+.contact-link,
+.facebook-link {
+  color: #007bff !important;
+  text-decoration: underline !important;
+}
 
+.contact-box a:visited,
+.contact-link:visited,
+.facebook-link:visited {
+  color: #007bff !important;
+}
+
+.contact-box a:hover,
+.contact-link:hover,
+.facebook-link:hover {
+  color: #0056b3 !important;
+}
 .overlay {
   background: rgba(0, 0, 0, 0.6);
   height: 100%;
