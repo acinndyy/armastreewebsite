@@ -444,19 +444,6 @@ img.facebook-icon {
   margin-right: 10px;
 }
 .contact-box a {
-  color: #007bff !important;
-  text-decoration: underline;
-}
-
-.contact-box a:visited {
-  color: #007bff !important;
-}
-
-.contact-box a:hover {
-  color: #0056b3 !important;
-  .contact-link,
-.facebook-link {
   color: blue !important;
-  text-decoration: underline;
-}
+  text-decoration: underline !important;
 }
