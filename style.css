@@ -440,4 +440,8 @@ img.facebook-icon {
 .contact-link:hover,
 .facebook-link:hover {
   text-decoration: underline;
+}.contact-link,
+.facebook-link {
+  color: blue;
+  text-decoration: underline;
 }
