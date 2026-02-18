@@ -202,3 +202,7 @@ footer {
   vertical-align: middle;
   margin-right: 8px;
 }
+img.facebook-icon {
+  width: 18px !important;
+  height: 18px !important;
+}
