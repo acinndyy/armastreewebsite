@@ -443,3 +443,15 @@ img.facebook-icon {
   color: black;
   margin-right: 10px;
 }
+.contact-box a {
+  color: #007bff !important;
+  text-decoration: underline;
+}
+
+.contact-box a:visited {
+  color: #007bff !important;
+}
+
+.contact-box a:hover {
+  color: #0056b3 !important;
+}
