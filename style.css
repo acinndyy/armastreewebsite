@@ -438,3 +438,8 @@ img.facebook-icon {
   color: blue;
   text-decoration: underline;
 }
+.contact-fa-icon {
+  font-size: 22px;
+  color: black;
+  margin-right: 10px;
+}
