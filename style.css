@@ -463,4 +463,12 @@ img.facebook-icon {
 .contact-box a {
   color: blue !important;
   text-decoration: underline !important;
+}.contact-box a {
+  color: #007bff !important;
+  text-decoration: underline !important;
+  font-weight: normal;
+}
+
+.contact-box a:visited {
+  color: #007bff !important;
 }
