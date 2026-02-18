@@ -506,4 +506,9 @@ img.facebook-icon {
   font-size: 20px;
   width: 24px;
 }
-
+.badge-box h2 {
+  margin: 0;
+  font-size: 32px;
+  color: #0b4d2a;
+  font-weight: bold;
+}
