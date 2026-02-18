@@ -347,3 +347,25 @@ img.facebook-icon {
   object-fit: contain !important;
   display: inline-block !important;
 }
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.contact-icon {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+
+.label-green {
+  color: #2e7d32;
+}
+
+.contact-link,
+.facebook-link {
+  color: blue;
+  text-decoration: underline;
+}
