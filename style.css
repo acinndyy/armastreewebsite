@@ -483,3 +483,9 @@ img.facebook-icon {
   width: 150px;
   height: auto;
 }
+.icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
