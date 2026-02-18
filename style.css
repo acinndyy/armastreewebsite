@@ -475,17 +475,27 @@ img.facebook-icon {
 .top-header {
   display: flex;
   justify-content: center;
-  padding: 15px;
-  background: white;
+  
+.contact-box p {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
 }
 
-.logo {
-  width: 150px;
-  height: auto;
+.contact-box .icon {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
 }
-.icon {
-  width: 20px;
-  height: 20px;
-  vertical-align: middle;
-  margin-right: 8px;
+
+.contact-box strong {
+  width: 85px; /* controls alignment of Phone/Email/Facebook */
+  display: inline-block;
+}
+
+.contact-box a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0a5cff;
 }
