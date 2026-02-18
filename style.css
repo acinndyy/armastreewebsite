@@ -283,3 +283,9 @@ img.facebook-icon {
 .contact-link:hover {
   text-decoration: underline;
 }
+.icon-normal {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
