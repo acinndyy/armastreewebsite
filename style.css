@@ -495,5 +495,15 @@ img.facebook-icon {
 .contact-box p {
   margin: 12px 0;
   font-size: 18px;
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0;
+}
+
+.contact-fa-icon {
+  font-size: 20px;
+  width: 24px;
 }
 
