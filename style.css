@@ -180,3 +180,12 @@ footer {
   font-weight: bold;
   border: 1px solid #ddd;
 }
+.facebook-link {
+  color: #0b5c2e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.facebook-link:hover {
+  text-decoration: underline;
+}
