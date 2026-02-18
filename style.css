@@ -400,18 +400,33 @@ img.facebook-icon {
 .contact-link,
 .facebook-link {
   color: #0066ff;
-  text-decoration: underline;
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0;
+}
+
+.contact-icon {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.label-green {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.contact-link,
+.facebook-link {
+  color: #007bff;
+  text-decoration: none;
   font-weight: normal;
 }
-.contact {
-  text-align: center;
-  padding: 50px 20px;
-}
 
-.contact h2 {
-  margin-bottom: 10px;
-}
-
-.contact p {
-  margin-bottom: 20px;
+.contact-link:hover,
+.facebook-link:hover {
+  text-decoration: underline;
 }
