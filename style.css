@@ -339,3 +339,11 @@ img.facebook-icon {
   color: #004aad;
   text-decoration: underline;
 }
+.contact-box img {
+  width: 20px !important;
+  height: 20px !important;
+  max-width: 20px !important;
+  max-height: 20px !important;
+  object-fit: contain !important;
+  display: inline-block !important;
+}
