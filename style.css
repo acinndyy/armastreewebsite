@@ -189,3 +189,10 @@ footer {
 .facebook-link:hover {
   text-decoration: underline;
 }
+.facebook-link:visited {
+  color: #0b5c2e;
+}
+
+.facebook-link:active {
+  color: #0b5c2e;
+}
