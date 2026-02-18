@@ -472,3 +472,14 @@ img.facebook-icon {
 .contact-box a:visited {
   color: #007bff !important;
 }
+.top-header {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  background: white;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+}
