@@ -537,3 +537,12 @@ img.facebook-icon {
   font-size: 1.1rem;
   line-height: 2;
 }
+.hours {
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+.contact {
+  padding-top: 20px;
+  margin-top: 0px;
+}
