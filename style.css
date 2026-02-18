@@ -369,3 +369,37 @@ img.facebook-icon {
   color: blue;
   text-decoration: underline;
 }
+.contact-box {
+  max-width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.15);
+  text-align: left;
+}
+
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0;
+  font-size: 16px;
+}
+
+.contact-icon {
+  width: 22px;
+  height: 22px;
+}
+
+.label-green {
+  color: #2ecc71;
+  font-weight: bold;
+}
+
+.contact-link,
+.facebook-link {
+  color: #0066ff;
+  text-decoration: underline;
+  font-weight: normal;
+}
