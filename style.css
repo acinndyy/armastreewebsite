@@ -289,3 +289,27 @@ img.facebook-icon {
   vertical-align: middle;
   margin-right: 8px;
 }
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.contact-row img {
+  width: 18px !important;
+  height: 18px !important;
+  max-width: 18px !important;
+  max-height: 18px !important;
+  vertical-align: middle;
+}
+
+.label-green {
+  color: #2ecc71;
+}
+
+.contact-link,
+.facebook-link {
+  color: #004aad;
+  text-decoration: underline;
+}
