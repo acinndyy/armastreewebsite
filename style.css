@@ -214,3 +214,10 @@ img.facebook-icon {
   width: 18px !important;
   height: 18px !important;
 }
+.facebook-icon {
+  width: 18px !important;
+  height: 18px !important;
+  max-width: 18px !important;
+  max-height: 18px !important;
+  display: inline-block;
+}
