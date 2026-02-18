@@ -538,16 +538,12 @@ img.facebook-icon {
   line-height: 2;
 }
 .hours {
-  padding-bottom: 20px;
-  margin-bottom: 0px;
+.hours {
+  padding-bottom: 10px !important;
+  margin-bottom: 0px !important;
 }
 
 .contact {
-  padding-top: 20px;
-  margin-top: 0px;
-}
-.hours h2,
-.contact h2 {
-  margin-bottom: 10px;
-  margin-top: 10px;
+  padding-top: 10px !important;
+  margin-top: 0px !important;
 }
