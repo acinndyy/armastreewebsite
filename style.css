@@ -265,3 +265,12 @@ img.facebook-icon {
 .facebook-link:hover {
   text-decoration: underline;
 }
+.contact-link {
+  color: #000;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
