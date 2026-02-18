@@ -221,3 +221,12 @@ img.facebook-icon {
   max-height: 18px !important;
   display: inline-block;
 }
+.contact-box a {
+  color: #0b5c2e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.contact-box a:hover {
+  text-decoration: underline;
+}
