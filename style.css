@@ -512,3 +512,28 @@ img.facebook-icon {
   color: #0b4d2a;
   font-weight: bold;
 }
+.hours {
+  padding: 60px 20px;
+  text-align: center;
+  background: white;
+}
+
+.hours h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.hours p {
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.hours-box {
+  margin-top: 25px;
+  display: inline-block;
+  padding: 20px 30px;
+  border-radius: 10px;
+  background: #f4f4f4;
+  font-size: 1.1rem;
+  line-height: 2;
+}
