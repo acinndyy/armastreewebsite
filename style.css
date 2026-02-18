@@ -274,3 +274,12 @@ img.facebook-icon {
 .contact-link:hover {
   text-decoration: underline;
 }
+.contact-link {
+  color: #000 !important;
+  font-weight: normal !important;
+  text-decoration: none;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
