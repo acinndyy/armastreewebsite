@@ -492,10 +492,8 @@ img.facebook-icon {
 .contact-box strong {
   width: 85px; /* controls alignment of Phone/Email/Facebook */
   display: inline-block;
+.contact-box p {
+  margin: 12px 0;
+  font-size: 18px;
 }
 
-.contact-box a {
-  text-decoration: none;
-  font-weight: bold;
-  color: #0a5cff;
-}
